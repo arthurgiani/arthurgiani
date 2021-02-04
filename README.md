@@ -3,6 +3,8 @@
 My name is Arthur and I'm an Industrial Engineer who found programming a challenging and satisfying way to solve problems.
 Currently living in Brazil.
 
+[![Medium_badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arthurgiani)
+
 <h3> 🛠 &nbsp;Stack</h3>
 
 - 💻 &nbsp;

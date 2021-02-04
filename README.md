@@ -1,7 +1,7 @@
 ### Hello There :vulcan_salute:
 
 My name is Arthur and I'm an Industrial Engineer who found programming a challenging and satisfying way to solve problems.
-Currently living in Brazil.
+Currently living in Brazil and working specially in **Mobile Development**.
 
 <h3> 🛠 &nbsp;Stack</h3>
 

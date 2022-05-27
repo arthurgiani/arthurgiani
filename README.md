@@ -6,7 +6,6 @@ Currently living in Brazil and working specially in **Mobile Development**.
 <h3> 🛠 &nbsp;Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007396)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=007396)
 
